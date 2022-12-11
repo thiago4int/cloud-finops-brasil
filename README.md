@@ -2,7 +2,8 @@
 
 ## cloud-finops-brasil
 
-https://cloudfinops.org/
+Blog: https://cloudfinops.org/
+Meetup: https://events.finops.org/brasil-cloud-finops/
 
 ## Instalar o hugo localmente 
 
