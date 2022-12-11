@@ -5,7 +5,7 @@ date: '2022-12-11'
 aliases:
   - about-us
   - contact
-license: CC BY NC SA 4.0
+license: CC BY 4.0
 lastmod: '2022-12-11'
 menu:
     main: 
@@ -28,14 +28,6 @@ Todo o conteúdo originário ou adaptado da FinOps Foundation está sujeito à L
 Attribution 4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
 
 Como atribuir o conteúdo do FinOps Framework e Foundation: https://www.finops.org/introduction/how-to-use/
-
-# Licença de conteúdo
-
-Todos outros conteúdos originados ou adaptados estão sujeitos à Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
-
-Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0): https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-Informações mais detalhadas sobre licenças e direitos de uso estão amplamente detalhadas em nosso repositório: https://github.com/thiago4int/cloud-finops-brasil
 
 
 
