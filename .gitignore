@@ -2,7 +2,4 @@ resources
 .hugo_build.lock
 public
 themes
-firebase.json
 public
-.firebase
-.firebaserc
