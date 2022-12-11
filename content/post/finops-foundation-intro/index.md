@@ -30,4 +30,4 @@ FinOps pode ajudar as organizações a gerenciar seus custos de nuvem de várias
 
 ---
 
-Conteúdp traduzido e adaptado de (FinOps Framework)[https://www.finops.org/] produzido pela (FinOps Foundatio)[https://finops.org/about/]
+Conteúdp traduzido e adaptado de [FinOps Framework](https://www.finops.org/) produzido pela [FinOps Foundatio](https://finops.org/about/)
