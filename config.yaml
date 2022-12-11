@@ -69,7 +69,7 @@ params:
         readingTime: true
         license:
             enabled: true
-            default: Licensed under CC BY-NC-SA 4.0
+            default: Licensed under CC BY 4.0
 
     comments:
         enabled: true
