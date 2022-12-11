@@ -1,8 +1,8 @@
 ---
 title: "finops"
-description: "This is an example category"
+description: "Conteúdos adaptados ou traduzidos do site da FinOps Foundation"
 slug: "finops"
-image: "hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg"
+image: "finops-small.jpg"
 style:
     background: "#2a9d8f"
     color: "#fff"
