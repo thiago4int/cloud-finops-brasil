@@ -8,6 +8,7 @@ Meetup: https://events.finops.org/brasil-cloud-finops/
 
 ## Como contribuir com o blog?
 
+
 O conteúdo pode ser enviado para diretamente para nós e ser incluído de duas maneiras:
 - Enviando o conteúdo de forma direta
 - Abrindo um Pull Request para adicionar conteúdo ou contribuir no código fonte
