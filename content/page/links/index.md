@@ -1,14 +1,14 @@
 ---
 title: Links
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+  - title: FinOps Foundation
+    description: Site da FinOps Foundation
+    website: https://www.finops.org/
+    image: https://media.licdn.com/dms/image/C4D0BAQEiIwSsq8Qhvg/company-logo_200_200/0/1625869628103?e=2147483647&v=beta&t=BtWhh0UDtZDL9gB8gzie59pDiO8lunG66NlVSL5Pcwg
+  - title: Cloud Brasil FinOps
+    description: Brasil Cloud FinOps é o grupo de encontro oficial da FinOps Foundation no Brasil
+    website: https://events.finops.org/brasil-cloud-finops/
+    image: finops_meetup_br.png
 menu:
     main: 
         weight: -50
@@ -18,20 +18,4 @@ menu:
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+Alguns Links Importantes

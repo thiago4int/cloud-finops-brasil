@@ -1,13 +1,12 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: Brasil Cloud FinOps Blog
+date: '2022-12-11'
 aliases:
   - about-us
-  - about-hugo
   - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
+license: CC BY NC SA 4.0
+lastmod: '2022-12-11'
 menu:
     main: 
         weight: -90
@@ -15,20 +14,28 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Brasil Cloud FinOps é o grupo de encontro oficial da FinOps Foundation no Brasil. Nosso objetivo é disseminar conhecimento, discutir melhores práticas e, principalmente, conectar qualquer pessoa interessada no assunto. O conteúdo desse blog tem, como principal objetivo, trazer informações e conteúdos criados pela comunidade brasileira e também disponibilizar conteúdos de outras fontes que, anteriormente, eram apenas disponibilizadas em inglês.
 
-Hugo makes use of a variety of open source projects including:
+## DISCLAIMER PORTUGUÊS
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+O conteúdo deste blog é apenas informativo e não deve ser considerado como um substituto para o conselho financeiro profissional. A maior parte das informações fornecidas neste blog são uma tradução de materiais já publicados em inglês, e são destinadas a tornar as informações mais acessíveis para os não falantes de inglês. No entanto, ainda é aconselhável que os leitores procurem aconselhamento de um consultor financeiro qualificado antes de tomar quaisquer decisões financeiras. Os contribuidores deste blog não garantem a precisão ou a integridade de quaisquer informações neste site ou encontradas ao seguir qualquer link neste site. Os contribuidores não serão responsáveis por quaisquer erros ou omissões nestas informações, nem pela disponibilidade dessas informações. Os contribuidores não serão responsáveis por quaisquer perdas, ou danos decorrentes da exibição ou uso dessas informações.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+# Conteúdo originado da FinOps Foundation
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Todo o conteúdo originário ou adaptado da FinOps Foundation está sujeito à Licença Internacional Creative Commons Attribution 4.0. Se você usar qualquer parte deste conteúdo, dê o devido crédito e forneça um link para a licença. Se você fizer alguma alteração no conteúdo, indique que o fez.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Attribution 4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+Como atribuir o conteúdo do FinOps Framework e Foundation: https://www.finops.org/introduction/how-to-use/
+
+# Licença de conteúdo
+
+Todos outros conteúdos originados ou adaptados estão sujeitos à Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0): https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Informações mais detalhadas sobre licenças e direitos de uso estão amplamente detalhadas em nosso repositório: https://github.com/thiago4int/cloud-finops-brasil
+
+
+
