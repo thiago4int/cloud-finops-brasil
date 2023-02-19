@@ -2,7 +2,7 @@
 author = "Thiago Gil"
 title = "O que é FinOps?"
 date = "2022-12-11"
-description = "O que é FinOps?"
+description = "E por que eu deveria me importar?"
 categories = [
     "finops",
 ]
@@ -30,4 +30,4 @@ FinOps pode ajudar as organizações a gerenciar seus custos de nuvem de várias
 
 ---
 
-Conteúdo traduzido e adaptado de [FinOps Framework](https://www.finops.org/) produzido pela [FinOps Foundatio](https://finops.org/about/)
+Conteúdo traduzido e adaptado de [FinOps Framework](https://www.finops.org/) produzido pela [FinOps Foundation](https://finops.org/about/)
