@@ -70,6 +70,8 @@ Para indivíduos que em FinOps ou genrenciamento de cloud, um máximo de de 3 Fi
 
 São fornecedores de ferramentas, plataformas e serviços destinados a serem vendidos ou utilizados por equipes e profissionais de FinOps. Nesse nível é seguido a risca o código de conduta no que diz respeito a "no sales pitches". Não fale sobre sua ferramenta ou servço a não ser que seja diretamente solicitado.
 
+Não esqueça que engenheiros de pré venda também são considerados parte de times de venda!
+
 Aqui existem dois tipos distintos de membros, Premier e General Members. Cada um com seu preço e benefício cuidadosamente criado pela FinOps Foundation.
 
 
