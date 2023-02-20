@@ -64,13 +64,13 @@ Dependendo do tamanho de sua empresa, e de seus desafios, alguns custos podem es
 
 ## Consultants
 
-Para indivíduos que em FinOps ou genrenciamento de cloud, um máximo de de 3 FinOps Certified Practioners por organização. Depois desse número, é exigido que a organização aplique para Vendor. Ter especialistas no assunto é essencial para trazer conteúdo de qualidade a discussão.
+Para profissionais que prestam consultoria em FinOps, criam produtos voltados a equipes de FinOps ou gerenciamento de cloud, um máximo de de 3 FinOps Certified Practioners por organização. Depois desse número, é exigido que a organização aplique para Vendor. Ter especialistas no assunto é essencial para trazer conteúdo de qualidade a discussão.
 
 ## Vendors
 
-São fornecedores de ferramentas, plataformas e serviços destinados a serem vendidos ou utilizados por equipes e profissionais de FinOps. Nesse nível é seguido a risca o código de conduta no que diz respeito a "no sales pitches". Não fale sobre sua ferramenta ou servço a não ser que seja diretamente solicitado.
+São organizações que fornecem ferramentas, plataformas e serviços destinados a serem vendidos ou utilizados por equipes e profissionais de FinOps. Nesse nível é seguido a risca o código de conduta no que diz respeito a "no sales pitches". Não fale sobre sua ferramenta ou serviço a não ser que seja uma solicitação direta sobre a sua ferramenta. Discutir estratégia de preço também não é aceitável!
 
-Não esqueça que engenheiros de pré venda também são considerados parte de times de venda!
+Não esqueça que time de engenharia de pré venda também é considerados parte de time de venda!
 
 Aqui existem dois tipos distintos de membros, Premier e General Members. Cada um com seu preço e benefício cuidadosamente criado pela FinOps Foundation.
 
