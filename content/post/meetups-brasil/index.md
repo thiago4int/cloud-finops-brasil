@@ -21,11 +21,11 @@ Se você é um profissional de FinOps, é fundamental manter-se atualizado sobre
 
 Para valorizar os membros praticantes - [Practioner Members](https://www.finops.org/membership/), os Meetups serão realizados em seus escritórios, sem patrocínios e com ênfase na acessibilidade na escolha dos locais. O código de conduta será rigorosamente seguido e nenhuma informação dos participantes será compartilhada com ninguém fora da Fundação, inclusive as listas de presença que serão geradas por QR code fornecido pela Fundação.
 
-A decisão de realizar os eventos nos escritórios dos membros praticantes é uma forma de garantir um local comprometido com o FinOps, um terreno neutro e consistência na experiência, independentemente do encontro em que alguém esteja participando. Se você tem interesse em receber um evento, entre em contato com pois estamos com planos para ter um novo meetup no final de março!
+A decisão de realizar os eventos nos escritórios dos membros praticantes é uma forma de garantir um local comprometido com o FinOps, um terreno neutro e consistência na experiência, independentemente do encontro em que alguém esteja participando. Se você tem interesse em receber um evento, entre em contato com a gente,  pois estamos com planos para ter um novo meetup no final de março!
 
 ## Código de Conduta e Membership
 
-Tanto nos meetups quanto no grupo do WhatsApp Cloud Brasil FinOps, todos são bem-vindos, independentemente de serem membros formais, desde que respeitem as regras de conduta e evitem fazer vendas ou auto-promoção. Para quem tem dúvidas sobre como se tornar um membro da fundação, é importante revisar as informações do último post. Embora todos sejam bem-vindos nos meetups, a adesão à Fundação segue regras diferentes para membros, fornecedores, consultores e membros empresariais. Vale ressaltar que, independentemente da categoria de membro, nenhuma pessoa de vendas, marketing, pré-vendas ou desenvolvimento de negócios pode se tornar um membro da fundação.
+Tanto nos meetups quanto no grupo do WhatsApp Cloud Brasil FinOps, todos são bem-vindos, independentemente de serem membros formais, desde que respeitem as regras de conduta e evitem fazer vendas ou auto-promoção. Para quem tem dúvidas sobre como se tornar um membro da fundação, é importante revisar as informações do [último post](https://cloudfinops.org/p/como-colaborar-com-a-finops-foundation/). Embora todos sejam bem-vindos nos meetups, a adesão à Fundação segue regras diferentes para membros, fornecedores, consultores e membros empresariais. Vale ressaltar que, independentemente da categoria de membro, nenhuma pessoa de vendas, marketing, pré-vendas ou desenvolvimento de negócios pode se tornar um membro da fundação.
 
 
 ---
