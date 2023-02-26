@@ -21,6 +21,6 @@
 {{ with .Site.Params.favicon }}
     <link rel="shortcut icon" href="{{ . }}" />
 {{ end }}
-
-{{- template "_internal/google_analytics.html" . -}}
+{{- template "partials/templates/cookie-consent.html" . }}
+<!-- {{- template "_internal/google_analytics.html" . -}} -->
 {{- partial "head/custom.html" . -}}
