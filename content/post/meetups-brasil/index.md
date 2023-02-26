@@ -8,6 +8,7 @@ categories = [
 ]
 tags = [
     "finops",
+    "comunidade",
 ]
 image = "meetup-brasil.png"
 +++
