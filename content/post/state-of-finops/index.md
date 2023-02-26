@@ -8,6 +8,7 @@ categories = [
 ]
 tags = [
     "finops",
+    "state-of-finops",
 ]
 image = "state-of-finops.jpg"
 +++
@@ -18,9 +19,9 @@ Uma das principais atividades da FinOps Foundation é a produção do relatório
 
 O relatório State of Finops é baseado em uma pesquisa realizada com profissionais de finanças em empresas de tecnologia em todo o mundo. A pesquisa cobre uma ampla gama de tópicos relacionados às operações financeiras, incluindo controle de custos, gerenciamento de orçamento, conformidade regulatória, automação de processos e muito mais.
 
-O objetivo do relatório é fornecer uma visão geral do estado atual das operações financeiras em empresas de tecnologia e ajudar a identificar tendências emergentes. Ele também ajuda os profissionais de finanças a avaliar seu próprio desempenho e a tomar decisões informadas sobre como melhorar suas operações financeiras.
+O objetivo do relatório é fornecer uma visão geral do estado atual das operações financeiras em empresas de tecnologia e ajudar a identificar tendências emergentes. Ele também ajuda os profissionais de finanças a avaliar seu próprio desempenho e a tomar decisões baseada em dados e experiências sobre como melhorar suas operações financeiras.
 
-Além disso, o relatório State of Finops fornece insights sobre as principais desafios enfrentados pelas empresas de tecnologia em relação às suas operações financeiras. Isso inclui desafios relacionados à escala, complexidade, regulamentação e cultura organizacional. Ao identificar esses desafios, o relatório ajuda as empresas de tecnologia a desenvolver estratégias para superá-los e melhorar suas operações financeiras.
+Além disso, o relatório State of Finops fornece insights sobre os principais desafios enfrentados pelas empresas de tecnologia em relação às suas operações financeiras. Isso inclui desafios relacionados à escala, complexidade, regulamentação e cultura organizacional. Ao identificar esses desafios, o relatório ajuda as empresas de tecnologia a desenvolver estratégias para superá-los e melhorar suas operações financeiras.
 
 O relatório é produzido em colaboração com uma série de parceiros, incluindo empresas de tecnologia, provedores de serviços financeiros e consultorias de negócios. Isso ajuda a garantir que o relatório seja baseado em dados precisos e atualizados, bem como em insights práticos e relevantes.
 

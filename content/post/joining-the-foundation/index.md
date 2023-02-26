@@ -8,6 +8,7 @@ categories = [
 ]
 tags = [
     "finops",
+    "comunidade",
 ]
 image = "comunidade-finops.jpg"
 +++
@@ -20,7 +21,7 @@ A FinOps Foundation é uma organização sem fins lucrativos que tem como objeti
 
 Existem diversas maneiras de colaborar com a FinOps Foundation, desde ajudar a traduzir conteúdo para outros idiomas, tornar-se um membro, compartilhar vagas ou oferecer seu espaço para receber um meetup. Acreditamos que a inclusão é fundamental para manter um ambiente neutro e participativo, e contamos com a ajuda de todos para manter essa atmosfera colaborativa.
 
-Se você tiver alguma dúvida sobre como se envolver com a FinOps Foundation, fique à vontade para entrar em contato conosco ou, diretamente pelo site da fundação. Além disso, se sua empresa organização tiver interesse em receber um meetup, basta entrar em contato com a gente. Ficaremos felizes em tirar qualquer dúvida.
+Se você tiver alguma dúvida sobre como se envolver com a FinOps Foundation, fique à vontade para entrar em contato conosco ou, diretamente pelo site da fundação. O mesmo vale para empresas/organizações que tiverem interesse em receber um meetup, basta entrar em contato com a gente para mais informações. Ficaremos felizes em tirar qualquer dúvida.
 
 Juntos, podemos trabalhar para tornar o gerenciamento de gastos em nuvem mais eficiente e acessível para todos. Sendo assim, vamos explicar alguns pontos que muitos ainda não conhecem ou não estão familiarizados.
 
@@ -44,7 +45,7 @@ Existem quatro tipos de membros:
 * Consultants
 * Vendors
 
-Cada tipo tem diferentes "tiers" e requisitos. Apenas uma coisa em comum entre eles: em nenhum tipo é aceitável profissionais de vendas, business development e marketing. Ou seja, se a sua companhia tem algum membro inscrito no site da FinOps Foundation e com acesso ao Slack e cai nessas categorias, é aconselhável identificá-los e pedir para que se limitem a discussões em meetups.
+Cada tipo tem diferentes "tiers" e requisitos. Apenas uma coisa em comum entre eles: **em nenhum tipo é aceitável profissionais de vendas, business development e marketing**. Ou seja, se a sua companhia tem algum membro inscrito no site da FinOps Foundation e com acesso ao Slack e cai nessas categorias, é aconselhável identificá-los e pedir para que se limitem a discussões em meetups.
 
 ## Practioners
 
@@ -64,13 +65,13 @@ Dependendo do tamanho de sua empresa, e de seus desafios, alguns custos podem es
 
 ## Consultants
 
-Para profissionais que prestam consultoria em FinOps, criam produtos voltados a equipes de FinOps ou gerenciamento de cloud, um máximo de de 3 FinOps Certified Practioners por organização. Depois desse número, é exigido que a organização aplique para Vendor. Ter especialistas no assunto é essencial para trazer conteúdo de qualidade a discussão.
+Para profissionais que prestam consultoria em FinOps, criam produtos voltados a equipes de FinOps ou gerenciamento de cloud e possua um máximo de 3 FinOps Certified Practioners por organização. Depois desse número, é exigido que a organização aplique para Vendor. Ter especialistas no assunto é essencial para trazer conteúdo de qualidade a discussão.
 
 ## Vendors
 
 São organizações que fornecem ferramentas, plataformas e serviços destinados a serem vendidos ou utilizados por equipes e profissionais de FinOps. Nesse nível é seguido a risca o código de conduta no que diz respeito a "no sales pitches". Não fale sobre sua ferramenta ou serviço a não ser que seja uma solicitação direta sobre a sua ferramenta. Discutir estratégia de preço também não é aceitável!
 
-Não esqueça que time de engenharia de pré venda também é considerados parte de time de venda!
+Não esqueça que time de engenharia de pré venda também é considerado parte de time de venda!
 
 Aqui existem dois tipos distintos de membros, Premier e General Members. Cada um com seu preço e benefício cuidadosamente criado pela FinOps Foundation.
 
