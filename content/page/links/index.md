@@ -9,6 +9,10 @@ links:
     description: Brasil Cloud FinOps é o grupo de encontro oficial da FinOps Foundation no Brasil
     website: https://events.finops.org/brasil-cloud-finops/
     image: finops_meetup_br.png
+  - title: Dann Berg Blog
+    description: Dann é um especialista em otimização de custos em nuvem, que também escreve ótimos artigos sobre o tema (conteúdo em inglês)
+    website: https://dannb.org/blog/
+    image: dann-hollow-eyes.png
 menu:
     main: 
         weight: -50
@@ -18,4 +22,4 @@ menu:
 comments: false
 ---
 
-Alguns Links Importantes
+Alguns Links Interessantes
