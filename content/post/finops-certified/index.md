@@ -17,7 +17,7 @@ image = "finops-certified.png"
 
 ## Membro da FinOps Foundation
 
-Durante minha jornada como membro da Fundação FinOps e como praticante há alguns anos, tive a oportunidade de aprimorar minhas habilidades em gerenciamento financeiro de nuvem e otimização de custos.
+Durante minha jornada como membro da Fundação FinOps e como praticante há alguns anos, tive a oportunidade de aprimorar minhas habilidades em gerenciamento financeiro de nuvem e otimização de custos!
 
 Desde que me tornei membro da fundação, tenho acompanhado de perto as atualizações e novidades relacionadas a FinOps, participando de Working Groups, Meetups e Eventos virtuais da comunidade. Isso me permitiu estar sempre atualizado sobre as melhores práticas e tendências em FinOps, o que me ajudou a aprimorar minhas habilidades práticas em gerenciamento financeiro de nuvem.
 
