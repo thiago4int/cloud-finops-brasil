@@ -25,7 +25,7 @@ Não quero me alongar nesse ponto, então caso se interessem, podem conferir min
 
 ## Iniciando a Jornada
 
-Por volta de Abril de 2022, [meu líder]() (quem eu só tenho a agradecer), chegou para mim com a ideia de iniciarmos um time de FinOps na empresa e no primeiro momento eu disse que pensaria na proposta e confesso que temia bastante em avançar com esse tema.
+Por volta de Abril de 2022, [meu líder](https://www.linkedin.com/in/luizfprado/) (quem eu só tenho a agradecer), chegou para mim com a ideia de iniciarmos um time de FinOps na empresa e no primeiro momento eu disse que pensaria na proposta e confesso que temia bastante em avançar com esse tema.
 Mesmo assim, ainda combinamos de iniciarmos o tema na empresa e caso eu não quisesse avançar com o projeto, não teria problema algum.
 
 Foi assim que iniciamos o que chamamos de "Frente de Redução de Custos". Essa frente consistia em realizarmos o processo de Benchmark (avaliação do cenário com outras empresas e mapeamento de oportunidades), levantamento de formas de economia em nuvem, melhoria de processos, identificação de recursos ociosos, processos de ajuste de tamanho da máquinas (Rightsizing), entre outros.
