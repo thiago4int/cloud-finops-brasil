@@ -1,5 +1,5 @@
 +++
-author = "Rodolfo Homaru Silva"
+author = "Rodolfo ´Homaru´ Silva"
 title = "Como foi minha jornada de FinOps - Parte 1"
 date = "2023-05-01"
 description = "Um breve relato de como avançar em FinOps"
