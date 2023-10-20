@@ -48,4 +48,4 @@ steps:
     /tmp/hugo
     /tmp/firebase deploy --project ${PROJECT_ID} --non-interactive --only hosting -m "Build ${BUILD_ID}"
 substitutions:
-  _HUGO_VERSION: 0.104.3
+  _HUGO_VERSION: 0.117.0
