@@ -1,4 +1,4 @@
-## cloud-finops-brasil (WIP) 
+## cloud-finops-brasil (WIP)
 Repositório com conteúdo de caráter informativo e colaborativo com o intuito de complementar a missão do Brasil CloudFinOps, o grupo de encontro oficial da FinOps Foundation no Brasil. 
 
 (WIP) Blog: https://cloudfinops.org/
