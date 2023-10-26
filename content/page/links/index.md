@@ -13,10 +13,6 @@ links:
     description: Eventos, Summits e Meetups ao redor do mundo (conteúdo em inglês)
     website: https://www.finops.org/community/events/
     image: dann-hollow-eyes.png
-  - title: Dann Berg Blog
-    description: Dann é um especialista em otimização de custos em nuvem, que também escreve ótimos artigos sobre o tema (conteúdo em inglês)
-    website: https://dannb.org/blog/
-    image: dann-hollow-eyes.png
 menu:
     main: 
         weight: -50
@@ -26,6 +22,4 @@ menu:
 comments: false
 ---
 
-Sugira um Link
-
-{{< chat cactus-comments >}}
+Links
