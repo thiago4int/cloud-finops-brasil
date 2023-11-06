@@ -1,41 +1,54 @@
 # Código de Conduta
 
-[Cópia traduzida do original em inglês](https://github.com/finopsfoundation/tac/blob/main/codeofconduct.md)
+[Cópia traduzida do original em inglês](https://github.com/finopsfoundation/foundation/blob/main/03-code_of_conduct.md)
 
-## Declaração do membro
-
-Como membro da FinOps Foundation, irei:
-
-* Contribuir proativamente para a FinOps Foundation
-* Demonstrar compromisso com as melhores práticas e melhoria contínua do setor
-* Visar trazer benefícios de longo prazo para o setor, em vez de do que uma vantagem de curto prazo para indivíduos e/ou sua empresa
-* Mostrar respeito pela diversidade de pessoas e culturas com quem trabalho e por seus direitos humanos
-* Não se envolver em práticas corruptas, antiéticas ou ilegais, suborno, discriminação ou similares impróprios comportamento
-* Abster-se de fazer representações (mídia, governo, outros) em nome da FinOps Foundation sem aprovação
-* Agir com ética e integridade, decência e respeito pela comunidade e seus membros
-* Executar e cumprir qualquer variação ou emenda ao Código de Conduta feita a qualquer momento pela Fundação FinOps
+# Código de Conduta da Fundação FinOps
 
 ## Inclusão
 
-Estamos empenhados em tornar a participação neste projeto uma experiência livre de assédio para todos, independentemente do nível de experiência, gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência pessoal, tamanho do corpo, raça, etnia, idade, religião ou nacionalidade.
+A Fundação FinOps está empenhada em criar um ambiente inclusivo para todas as pessoas e todas as identidades, independentemente de raça, etnia, religião, cor, origem nacional, idade, deficiência (física ou mental), orientação sexual, identidade de gênero e expressão, estado civil, status parental, filiação política, status de veterano, status socioeconômico ou origem. Comprometemo-nos a proporcionar um ambiente seguro e produtivo que promova o diálogo aberto e a expressão de ideias, livre de assédio, discriminação, retaliação e conduta hostil.
 
-Exemplos de comportamento inaceitável por parte dos participantes incluem:
+Espera-se que todas as pessoas tratem os outros com respeito e consideração. Geralmente, comportamentos antiéticos, ilegais, inseguros ou outros comportamentos que sejam inconsistentes com as regras e políticas da Fundação FinOps, ou que violem a lei local, estadual ou federal, são inaceitáveis. Se acreditarmos que você não está cumprindo este Código de Conduta, a questão será cuidadosamente analisada e as medidas apropriadas serão tomadas.
 
-* O uso de linguagem ou imagens sexualizadas
-* Ataques pessoais
-* Trollagem ou comentários insultuosos/depreciativos
-* Assédio público ou privado
-* Publicação de informações privadas de outras pessoas, como endereços físicos ou eletrônicos, sem permissão explícita
-* Outros conduta antiética ou não profissional.
+Se você testemunhar ou for vítima de comportamento inadequado, ou tiver preocupações relacionadas a este Código de Conduta, denuncie prontamente o incidente por meio do [Formulário de Registro de Incidentes](https://docs.google.com/forms/d/e/1FAIpQLSf2Z-z6qZUyHku7FwbMuOXa8rLH_XTju78xzr6VacyMfAgJqA/viewform) ou entre em contato com conduct@finops.org.
 
-Espera-se que todas as pessoas tratem os outros com respeito e consideração. Geralmente, conduta antiética, ilegal, insegura ou outra conduta que seja inconsistente com as regras e políticas da Fundação FinOps, ou que viole a lei local, estadual ou federal é inaceitável. Se acreditarmos que você não está cumprindo este Código de Conduta, o assunto será cuidadosamente analisado e as medidas cabíveis serão tomadas.
+## Sem Abordagens de Vendas Não Solicitadas
 
-## No Sales Pitches
+A Fundação FinOps visa compartilhar as melhores práticas da indústria, identificar os desafios que a nuvem apresenta e as soluções que os abordam. Embora seus produtos, ferramentas e ofertas de negócios possam ajudar a resolver alguns desses desafios, não apoiamos abordagens de vendas não solicitadas. A menos que haja uma solicitação específica sobre um produto com o qual você está envolvido, você não deve continuar a introduzir suas ofertas na conversa. Da mesma forma, fornecedores ou consultores estão proibidos de usar canais da Fundação FinOps para fazer contatos não solicitados.
 
-A FinOps Foundation trata do compartilhamento das melhores práticas do setor, identificando os desafios que a nuvem apresenta e as soluções que os abordam. Embora seus produtos, ferramentas e ofertas de negócios possam ajudar a resolver alguns desses desafios, não toleramos discursos de vendas. A menos que haja uma solicitação específica sobre um produto com o qual você está envolvido, você não deve continuar a inserir suas ofertas na conversa.
+O comitê de código de conduta investigará todas as violações de conduta e tomará medidas apropriadas que podem incluir a remoção da fundação.
 
 ## Difamação
 
-Adicionar comentários ou pontos de vista negativos à conversa sobre as ofertas de seus concorrentes também não será aceito. Gostaríamos de manter uma conversa positiva e objetiva.
+Adicionar comentários à conversa sobre as ofertas de seus concorrentes, especialmente pontos de vista negativos, também não será aceito. Gostaríamos de manter a conversa positiva e direcionada.
 
-Se você testemunhar ou for submetido a comportamento impróprio, ou tiver dúvidas relacionadas a este Código de Conduta, entre em contato imediatamente com board@finops.org.
+### Comportamento Esperado
+A Fundação FinOps também espera que seus participantes façam o seguinte:
+* Esteja receptivo a comentários construtivos e críticas.
+* Seja acolhedor. Use linguagem inclusiva.
+* Respeite pontos de vista e experiências diferentes.
+* Mostre respeito pela diversidade de pessoas e culturas com as quais trabalho e por seus direitos humanos.
+* Aja de maneira ética e com integridade, decência e respeito pela comunidade e seus membros.
+* Cumpra e respeite quaisquer variações ou emendas ao Código de Conduta feitas a qualquer momento pela Fundação FinOps.
+
+### Comportamento Inadequado
+
+O assédio em qualquer forma, seja online ou offline, relacionado à comunidade FinOps, é inaceitável. Exemplos de comportamentos inaceitáveis incluem:
+
+* Trolling, comentários insultuosos/derrogatórios e ataques pessoais ou políticos.
+* O uso de linguagem ou imagens sexualizadas. Atenção ou avanços sexuais indesejados.
+* Linguagem ou imagens que encorajem, glorifiquem, incitem ou solicitem violência, dano emocional ou físico a um indivíduo ou a um grupo de pessoas.
+* Assédio público ou privado.
+* Insultos pessoais.
+* Publicar informações privadas sobre um indivíduo sem sua permissão (doxxing) com intenção prejudicial.
+* Desconsiderar ou atacar solicitações orientadas para a inclusão.
+* Comportamento que perturba palestras, oficinas ou outros eventos.
+* Declarações depreciativas ou outro assédio com base na raça/etnia ou origem nacional de um indivíduo ou grupo, sexo ou gênero, identidade de gênero ou expressão, orientação sexual, deficiência, aparência física, doença mental ou neurotipicidade, tamanho do corpo, casta, idade ou religião.
+* Ameaças ou atos de violência.
+* Intimidação deliberada.
+* Incentivar qualquer um dos comportamentos acima.
+* Qualquer outro comportamento que seria considerado inadequado em um ambiente profissional.
+
+## Atribuição e Licenciamento
+
+Este documento inclui conteúdo baseado no [Documento "Como Relatar Violações das Diretrizes de Participação da Comunidade Mozilla"](https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/), que se baseia em parte no [Código de Conduta do PyCon Revisão 2f4d980](https://us.pycon.org/2018/about/code-of-conduct/). Ambos esses recursos são licenciados sob a [Licença Creative Commons Atribuição 3.0 Não Adaptada](https://creativecommons.org/licenses/by/3.0/). Este documento é licenciado sob a [Licença Creative Commons Atribuição 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/).
