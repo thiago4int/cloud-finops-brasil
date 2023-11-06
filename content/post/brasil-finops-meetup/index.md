@@ -16,6 +16,10 @@ tags = [
 image = "registro.png"
 +++
 
+# Não Perca!
+
+[Clique aqui](https://www.finops.org/event/brasil-finops-meetup/), se ainda não se registrou!
+
 ## Brasil FinOps Meetup - São Paulo, 8 de Novembro de 2023
 
 Vem aí mais um [Meetup](https://www.finops.org/event/brasil-finops-meetup/) da FinOps Foundation no Brasil! Estamos muito ansiosos para reunir a comunidade FinOps novamente.
