@@ -47,4 +47,7 @@ Além disso, o evento contou com o anúncio de [Rodolfo Silva](https://www.linke
 
 Agradecemos a todos os participantes, palestrantes e parceiros que contribuíram para o sucesso do evento. Esperamos vê-los em breve no próximo Brasil FinOps Meetup e fiquem ligados nas próximas postagens com as fotos dos evento!
 
+Ah! Não esqueça de entrar em nosso grupo do WhatsApp
 
+
+![WhatsApp](comunidade-whatsapp.jpeg)
